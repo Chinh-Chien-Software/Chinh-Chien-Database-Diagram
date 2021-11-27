@@ -45562,6 +45562,235 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAF9JhroCyFRrG8="
 							}
+						},
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAF9YCUEfYa8nB4=",
+							"_parent": {
+								"$ref": "AAAAAAF83oZTfS29jeE="
+							},
+							"model": {
+								"$ref": "AAAAAAF9YCUEfIa6LSQ="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAF9YCUEfoa9ZtQ=",
+									"_parent": {
+										"$ref": "AAAAAAF9YCUEfYa8nB4="
+									},
+									"model": {
+										"$ref": "AAAAAAF9YCUEfIa6LSQ="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF9YCUEfoa+L9w=",
+											"_parent": {
+												"$ref": "AAAAAAF9YCUEfoa9ZtQ="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -2240,
+											"top": 1360,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF9YCUEfoa/6AA=",
+											"_parent": {
+												"$ref": "AAAAAAF9YCUEfoa9ZtQ="
+											},
+											"font": "Arial;13;1",
+											"left": 325,
+											"top": 903,
+											"width": 135,
+											"height": 13,
+											"text": "Quản Lý Lịch Làm"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF9YCUEfobAayc=",
+											"_parent": {
+												"$ref": "AAAAAAF9YCUEfoa9ZtQ="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -2240,
+											"top": 1360,
+											"width": 123.5126953125,
+											"height": 13,
+											"text": "(from Class Diagram)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF9YCUEfobBtmA=",
+											"_parent": {
+												"$ref": "AAAAAAF9YCUEfoa9ZtQ="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": -2240,
+											"top": 1360,
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 320,
+									"top": 896,
+									"width": 145,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAF9YCUEfoa+L9w="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAF9YCUEfoa/6AA="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAF9YCUEfobAayc="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAF9YCUEfobBtmA="
+									}
+								},
+								{
+									"_type": "UMLAttributeCompartmentView",
+									"_id": "AAAAAAF9YCUEfobCgOo=",
+									"_parent": {
+										"$ref": "AAAAAAF9YCUEfYa8nB4="
+									},
+									"model": {
+										"$ref": "AAAAAAF9YCUEfIa6LSQ="
+									},
+									"font": "Arial;13;0",
+									"left": 320,
+									"top": 921,
+									"width": 145,
+									"height": 10
+								},
+								{
+									"_type": "UMLOperationCompartmentView",
+									"_id": "AAAAAAF9YCUEfobD7Cw=",
+									"_parent": {
+										"$ref": "AAAAAAF9YCUEfYa8nB4="
+									},
+									"model": {
+										"$ref": "AAAAAAF9YCUEfIa6LSQ="
+									},
+									"subViews": [
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF9YCXDbJiUGDM=",
+											"_parent": {
+												"$ref": "AAAAAAF9YCUEfobD7Cw="
+											},
+											"model": {
+												"$ref": "AAAAAAF9YCXDQJhw3vo="
+											},
+											"font": "Arial;13;0",
+											"left": 325,
+											"top": 936,
+											"width": 135,
+											"height": 13,
+											"text": "+Xem Lịch Làm()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF9YCn7kcIe29s=",
+											"_parent": {
+												"$ref": "AAAAAAF9YCUEfobD7Cw="
+											},
+											"model": {
+												"$ref": "AAAAAAF9YCn7XsH6A90="
+											},
+											"font": "Arial;13;0",
+											"left": 325,
+											"top": 951,
+											"width": 135,
+											"height": 13,
+											"text": "+Cập Nhật Lịch Làm()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF9YCocqMNvs3w=",
+											"_parent": {
+												"$ref": "AAAAAAF9YCUEfobD7Cw="
+											},
+											"model": {
+												"$ref": "AAAAAAF9YCocjcNLMKo="
+											},
+											"font": "Arial;13;0",
+											"left": 325,
+											"top": 966,
+											"width": 135,
+											"height": 13,
+											"text": "+Xóa Lịch Làm()",
+											"horizontalAlignment": 0
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 320,
+									"top": 931,
+									"width": 145,
+									"height": 53
+								},
+								{
+									"_type": "UMLReceptionCompartmentView",
+									"_id": "AAAAAAF9YCUEfobEcYs=",
+									"_parent": {
+										"$ref": "AAAAAAF9YCUEfYa8nB4="
+									},
+									"model": {
+										"$ref": "AAAAAAF9YCUEfIa6LSQ="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": -1120,
+									"top": 680,
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLTemplateParameterCompartmentView",
+									"_id": "AAAAAAF9YCUEf4bFgB8=",
+									"_parent": {
+										"$ref": "AAAAAAF9YCUEfYa8nB4="
+									},
+									"model": {
+										"$ref": "AAAAAAF9YCUEfIa6LSQ="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": -1120,
+									"top": 680,
+									"width": 10,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 320,
+							"top": 896,
+							"width": 145,
+							"height": 97,
+							"nameCompartment": {
+								"$ref": "AAAAAAF9YCUEfoa9ZtQ="
+							},
+							"attributeCompartment": {
+								"$ref": "AAAAAAF9YCUEfobCgOo="
+							},
+							"operationCompartment": {
+								"$ref": "AAAAAAF9YCUEfobD7Cw="
+							},
+							"receptionCompartment": {
+								"$ref": "AAAAAAF9YCUEfobEcYs="
+							},
+							"templateParameterCompartment": {
+								"$ref": "AAAAAAF9YCUEf4bFgB8="
+							}
 						}
 					]
 				},
@@ -54356,6 +54585,40 @@
 							}
 						}
 					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAF9YCUEfIa6LSQ=",
+					"_parent": {
+						"$ref": "AAAAAAF83lDeRxbRkL8="
+					},
+					"name": "Quản Lý Lịch Làm",
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF9YCXDQJhw3vo=",
+							"_parent": {
+								"$ref": "AAAAAAF9YCUEfIa6LSQ="
+							},
+							"name": "Xem Lịch Làm"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF9YCn7XsH6A90=",
+							"_parent": {
+								"$ref": "AAAAAAF9YCUEfIa6LSQ="
+							},
+							"name": "Cập Nhật Lịch Làm"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF9YCocjcNLMKo=",
+							"_parent": {
+								"$ref": "AAAAAAF9YCUEfIa6LSQ="
+							},
+							"name": "Xóa Lịch Làm"
+						}
+					]
 				}
 			]
 		},
@@ -55581,7 +55844,7 @@
 											"font": "Arial;13;0",
 											"left": 8,
 											"top": 8,
-											"width": 692,
+											"width": 1089,
 											"height": 592,
 											"nameLabel": {
 												"$ref": "AAAAAAF9YBNDGoO4+mU="
@@ -55589,8 +55852,392 @@
 											"frameTypeLabel": {
 												"$ref": "AAAAAAF9YBNDGoO5imQ="
 											}
+										},
+										{
+											"_type": "UMLSeqLifelineView",
+											"_id": "AAAAAAF9YBR3sISZ0tU=",
+											"_parent": {
+												"$ref": "AAAAAAF9YBNDGYO2c5c="
+											},
+											"model": {
+												"$ref": "AAAAAAF9YBR3sISYtnw="
+											},
+											"subViews": [
+												{
+													"_type": "UMLNameCompartmentView",
+													"_id": "AAAAAAF9YBR3sISaU+M=",
+													"_parent": {
+														"$ref": "AAAAAAF9YBR3sISZ0tU="
+													},
+													"model": {
+														"$ref": "AAAAAAF9YBR3sISYtnw="
+													},
+													"subViews": [
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF9YBR3sISbNV4=",
+															"_parent": {
+																"$ref": "AAAAAAF9YBR3sISaU+M="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"left": -66,
+															"height": 13
+														},
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF9YBR3sISc9M8=",
+															"_parent": {
+																"$ref": "AAAAAAF9YBR3sISaU+M="
+															},
+															"font": "Arial;13;1",
+															"left": 29,
+															"top": 87,
+															"width": 108.58935546875,
+															"height": 13,
+															"text": "Lifeline1: QuanLy"
+														},
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF9YBR3sISddmk=",
+															"_parent": {
+																"$ref": "AAAAAAF9YBR3sISaU+M="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"left": -66,
+															"width": 143.7744140625,
+															"height": 13,
+															"text": "(from Quản Lý Lịch Làm)"
+														},
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF9YBR3sISe1pc=",
+															"_parent": {
+																"$ref": "AAAAAAF9YBR3sISaU+M="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"left": -66,
+															"height": 13,
+															"horizontalAlignment": 1
+														}
+													],
+													"font": "Arial;13;0",
+													"left": 24,
+													"top": 80,
+													"width": 118.58935546875,
+													"height": 25,
+													"stereotypeLabel": {
+														"$ref": "AAAAAAF9YBR3sISbNV4="
+													},
+													"nameLabel": {
+														"$ref": "AAAAAAF9YBR3sISc9M8="
+													},
+													"namespaceLabel": {
+														"$ref": "AAAAAAF9YBR3sISddmk="
+													},
+													"propertyLabel": {
+														"$ref": "AAAAAAF9YBR3sISe1pc="
+													}
+												},
+												{
+													"_type": "UMLLinePartView",
+													"_id": "AAAAAAF9YBR3sISfub4=",
+													"_parent": {
+														"$ref": "AAAAAAF9YBR3sISZ0tU="
+													},
+													"model": {
+														"$ref": "AAAAAAF9YBR3sISYtnw="
+													},
+													"font": "Arial;13;0",
+													"left": 83,
+													"top": 105,
+													"width": 1,
+													"height": 448
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 24,
+											"top": 40,
+											"width": 118.58935546875,
+											"height": 513,
+											"stereotypeDisplay": "icon",
+											"nameCompartment": {
+												"$ref": "AAAAAAF9YBR3sISaU+M="
+											},
+											"linePart": {
+												"$ref": "AAAAAAF9YBR3sISfub4="
+											}
+										},
+										{
+											"_type": "UMLSeqLifelineView",
+											"_id": "AAAAAAF9YBTfioS6BCI=",
+											"_parent": {
+												"$ref": "AAAAAAF9YBNDGYO2c5c="
+											},
+											"model": {
+												"$ref": "AAAAAAF9YBTfioS5I0c="
+											},
+											"subViews": [
+												{
+													"_type": "UMLNameCompartmentView",
+													"_id": "AAAAAAF9YBTfioS7ZYA=",
+													"_parent": {
+														"$ref": "AAAAAAF9YBTfioS6BCI="
+													},
+													"model": {
+														"$ref": "AAAAAAF9YBTfioS5I0c="
+													},
+													"subViews": [
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF9YBTfioS8rAw=",
+															"_parent": {
+																"$ref": "AAAAAAF9YBTfioS7ZYA="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"height": 13
+														},
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF9YBTfioS9Yko=",
+															"_parent": {
+																"$ref": "AAAAAAF9YBTfioS7ZYA="
+															},
+															"font": "Arial;13;1",
+															"left": 205,
+															"top": 47,
+															"width": 186.97265625,
+															"height": 13,
+															"text": "Giao Diện Quản Lý Lịch Làm"
+														},
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF9YBTfioS++bA=",
+															"_parent": {
+																"$ref": "AAAAAAF9YBTfioS7ZYA="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"width": 143.7744140625,
+															"height": 13,
+															"text": "(from Quản Lý Lịch Làm)"
+														},
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF9YBTfioS/FAY=",
+															"_parent": {
+																"$ref": "AAAAAAF9YBTfioS7ZYA="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"height": 13,
+															"horizontalAlignment": 1
+														}
+													],
+													"font": "Arial;13;0",
+													"left": 200,
+													"top": 40,
+													"width": 196.97265625,
+													"height": 40,
+													"stereotypeLabel": {
+														"$ref": "AAAAAAF9YBTfioS8rAw="
+													},
+													"nameLabel": {
+														"$ref": "AAAAAAF9YBTfioS9Yko="
+													},
+													"namespaceLabel": {
+														"$ref": "AAAAAAF9YBTfioS++bA="
+													},
+													"propertyLabel": {
+														"$ref": "AAAAAAF9YBTfioS/FAY="
+													}
+												},
+												{
+													"_type": "UMLLinePartView",
+													"_id": "AAAAAAF9YBTfioTA17k=",
+													"_parent": {
+														"$ref": "AAAAAAF9YBTfioS6BCI="
+													},
+													"model": {
+														"$ref": "AAAAAAF9YBTfioS5I0c="
+													},
+													"font": "Arial;13;0",
+													"left": 298,
+													"top": 80,
+													"width": 1,
+													"height": 480
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 200,
+											"top": 40,
+											"width": 196.97265625,
+											"height": 520,
+											"nameCompartment": {
+												"$ref": "AAAAAAF9YBTfioS7ZYA="
+											},
+											"linePart": {
+												"$ref": "AAAAAAF9YBTfioTA17k="
+											}
+										},
+										{
+											"_type": "UMLSeqLifelineView",
+											"_id": "AAAAAAF9YCQm0oUOggQ=",
+											"_parent": {
+												"$ref": "AAAAAAF9YBNDGYO2c5c="
+											},
+											"model": {
+												"$ref": "AAAAAAF9YCQm0oUNbkQ="
+											},
+											"subViews": [
+												{
+													"_type": "UMLNameCompartmentView",
+													"_id": "AAAAAAF9YCQm0oUP5WA=",
+													"_parent": {
+														"$ref": "AAAAAAF9YCQm0oUOggQ="
+													},
+													"model": {
+														"$ref": "AAAAAAF9YCQm0oUNbkQ="
+													},
+													"subViews": [
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF9YCQm0oUQcAQ=",
+															"_parent": {
+																"$ref": "AAAAAAF9YCQm0oUP5WA="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"left": 526,
+															"height": 13
+														},
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF9YCQm0oURZGE=",
+															"_parent": {
+																"$ref": "AAAAAAF9YCQm0oUP5WA="
+															},
+															"font": "Arial;13;1",
+															"left": 773,
+															"top": 47,
+															"width": 127.74267578125,
+															"height": 13,
+															"text": "Lifeline2: Lịch Làm"
+														},
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF9YCQm0oUSvkQ=",
+															"_parent": {
+																"$ref": "AAAAAAF9YCQm0oUP5WA="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"left": 526,
+															"width": 143.7744140625,
+															"height": 13,
+															"text": "(from Quản Lý Lịch Làm)"
+														},
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAF9YCQm0oUTxmE=",
+															"_parent": {
+																"$ref": "AAAAAAF9YCQm0oUP5WA="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"left": 526,
+															"height": 13,
+															"horizontalAlignment": 1
+														}
+													],
+													"font": "Arial;13;0",
+													"left": 768,
+													"top": 40,
+													"width": 137.74267578125,
+													"height": 40,
+													"stereotypeLabel": {
+														"$ref": "AAAAAAF9YCQm0oUQcAQ="
+													},
+													"nameLabel": {
+														"$ref": "AAAAAAF9YCQm0oURZGE="
+													},
+													"namespaceLabel": {
+														"$ref": "AAAAAAF9YCQm0oUSvkQ="
+													},
+													"propertyLabel": {
+														"$ref": "AAAAAAF9YCQm0oUTxmE="
+													}
+												},
+												{
+													"_type": "UMLLinePartView",
+													"_id": "AAAAAAF9YCQm0oUUQxY=",
+													"_parent": {
+														"$ref": "AAAAAAF9YCQm0oUOggQ="
+													},
+													"model": {
+														"$ref": "AAAAAAF9YCQm0oUNbkQ="
+													},
+													"font": "Arial;13;0",
+													"left": 837,
+													"top": 80,
+													"width": 1,
+													"height": 481
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 768,
+											"top": 40,
+											"width": 137.74267578125,
+											"height": 521,
+											"nameCompartment": {
+												"$ref": "AAAAAAF9YCQm0oUP5WA="
+											},
+											"linePart": {
+												"$ref": "AAAAAAF9YCQm0oUUQxY="
+											}
 										}
 									]
+								}
+							],
+							"participants": [
+								{
+									"_type": "UMLLifeline",
+									"_id": "AAAAAAF9YBR3sISYtnw=",
+									"_parent": {
+										"$ref": "AAAAAAF9X+zPPYOt36U="
+									},
+									"name": "Lifeline1",
+									"represent": {
+										"$ref": "AAAAAAF9YBR3r4SXu1A="
+									},
+									"isMultiInstance": false
+								},
+								{
+									"_type": "UMLLifeline",
+									"_id": "AAAAAAF9YBTfioS5I0c=",
+									"_parent": {
+										"$ref": "AAAAAAF9X+zPPYOt36U="
+									},
+									"name": "Giao Diện Quản Lý Lịch Làm",
+									"represent": {
+										"$ref": "AAAAAAF9YBTfioS4Ky8="
+									},
+									"isMultiInstance": false
+								},
+								{
+									"_type": "UMLLifeline",
+									"_id": "AAAAAAF9YCQm0oUNbkQ=",
+									"_parent": {
+										"$ref": "AAAAAAF9X+zPPYOt36U="
+									},
+									"name": "Lifeline2",
+									"represent": {
+										"$ref": "AAAAAAF9YCQm0YUM75c="
+									},
+									"isMultiInstance": false
 								}
 							]
 						},
@@ -58014,6 +58661,45 @@
 							},
 							"name": "Role5",
 							"type": ""
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAF9YBR3r4SXu1A=",
+							"_parent": {
+								"$ref": "AAAAAAF9So9OK/1+Kx4="
+							},
+							"name": "Role6",
+							"type": {
+								"$ref": "AAAAAAF8ckxpEld4i74="
+							}
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAF9YBTfioS4Ky8=",
+							"_parent": {
+								"$ref": "AAAAAAF9So9OK/1+Kx4="
+							},
+							"name": "Role7"
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAF9YCOy5oTaqfA=",
+							"_parent": {
+								"$ref": "AAAAAAF9So9OK/1+Kx4="
+							},
+							"name": "Role8",
+							"type": ""
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAF9YCQm0YUM75c=",
+							"_parent": {
+								"$ref": "AAAAAAF9So9OK/1+Kx4="
+							},
+							"name": "Role9",
+							"type": {
+								"$ref": "AAAAAAF9AFBslK16GQQ="
+							}
 						}
 					]
 				},
