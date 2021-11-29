@@ -61,9 +61,9 @@
 														"$ref": "AAAAAAF9Yd8Pf/n9dgA="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 63.86083984375,
+													"width": 59.84912109375,
 													"height": 13,
 													"text": "Xem Menu"
 												},
@@ -76,7 +76,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -1383,7 +1383,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF9Yd8Pfvn6pmU="
 							},
-							"name": "Role2"
+							"name": "Role2",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
