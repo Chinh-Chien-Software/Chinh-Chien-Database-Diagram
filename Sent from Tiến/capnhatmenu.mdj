@@ -12,15 +12,6 @@
 			"name": "Model",
 			"ownedElements": [
 				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"defaultDiagram": true
-				},
-				{
 					"_type": "UMLCollaboration",
 					"_id": "AAAAAAF9YfEE4TSzXV8=",
 					"_parent": {
@@ -34,7 +25,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9YfEE4TSzXV8="
 							},
-							"name": "Interaction1",
+							"name": "Cập Nhật Menu",
 							"ownedElements": [
 								{
 									"_type": "UMLSequenceDiagram",
@@ -42,7 +33,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF9YfEE4jS0VDQ="
 									},
-									"name": "SequenceDiagram1",
+									"name": "Cập Nhật Menu",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -63,9 +54,9 @@
 													"font": "Arial;13;0",
 													"left": 32.72998046875,
 													"top": 13,
-													"width": 115.9052734375,
+													"width": 92.05078125,
 													"height": 13,
-													"text": "SequenceDiagram1"
+													"text": "Cập Nhật Menu"
 												},
 												{
 													"_type": "LabelView",
@@ -144,9 +135,9 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"width": 106.20263671875,
+															"width": 129.32080078125,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from Cập Nhật Menu)"
 														},
 														{
 															"_type": "LabelView",
@@ -257,9 +248,9 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"width": 106.20263671875,
+															"width": 129.32080078125,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from Cập Nhật Menu)"
 														},
 														{
 															"_type": "LabelView",
@@ -372,9 +363,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": 16,
-															"width": 106.20263671875,
+															"width": 129.32080078125,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from Cập Nhật Menu)"
 														},
 														{
 															"_type": "LabelView",
@@ -488,9 +479,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": 160,
-															"width": 106.20263671875,
+															"width": 129.32080078125,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from Cập Nhật Menu)"
 														},
 														{
 															"_type": "LabelView",
@@ -2420,7 +2411,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF9YfEE4TSzXV8="
 							},
-							"name": "Role1"
+							"name": "Role1",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2428,7 +2420,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF9YfEE4TSzXV8="
 							},
-							"name": "Role2"
+							"name": "Role2",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2445,7 +2438,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF9YfEE4TSzXV8="
 							},
-							"name": "Role4"
+							"name": "Role4",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2453,7 +2447,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF9YfEE4TSzXV8="
 							},
-							"name": "Role5"
+							"name": "Role5",
+							"type": ""
 						}
 					]
 				}
