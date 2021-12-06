@@ -88109,7 +88109,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9Sr9/wgEg99Y="
 							},
-							"name": "Chỉnh Sửa Báo Cáo Doanh Thu",
+							"name": "Chỉnh Sửa Thu Chi Trong Ngày ",
 							"ownedElements": [
 								{
 									"_type": "UMLSequenceDiagram",
@@ -90729,7 +90729,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9a5rRqeJ/UTY="
 							},
-							"name": "Untitled",
+							"name": "Ideno",
 							"ownedElements": [
 								{
 									"_type": "UMLModel",
@@ -90863,7 +90863,7 @@
 											"font": "Arial;13;0",
 											"left": 8,
 											"top": 8,
-											"width": 1329,
+											"width": 1201,
 											"height": 649,
 											"nameLabel": {
 												"$ref": "AAAAAAF9a/22KHhXT7k="
@@ -91249,7 +91249,7 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 256,
+															"left": 208,
 															"height": 13
 														},
 														{
@@ -91259,7 +91259,7 @@
 																"$ref": "AAAAAAF9a/22Knhz3w0="
 															},
 															"font": "Arial;13;1",
-															"left": 1029,
+															"left": 1005,
 															"top": 47,
 															"width": 102,
 															"height": 13,
@@ -91273,7 +91273,7 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 256,
+															"left": 208,
 															"width": 253.51904296875,
 															"height": 13,
 															"text": "(from Kiểm soát lượng tồn hàng trong quầy)"
@@ -91286,13 +91286,13 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 256,
+															"left": 208,
 															"height": 13,
 															"horizontalAlignment": 1
 														}
 													],
 													"font": "Arial;13;0",
-													"left": 1024,
+													"left": 1000,
 													"top": 40,
 													"width": 112,
 													"height": 40,
@@ -91319,14 +91319,14 @@
 														"$ref": "AAAAAAF9a/22K3jOUp4="
 													},
 													"font": "Arial;13;0",
-													"left": 1080,
+													"left": 1056,
 													"top": 80,
 													"width": 1,
 													"height": 537
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 1024,
+											"left": 1000,
 											"top": 40,
 											"width": 112,
 											"height": 577,
@@ -91804,7 +91804,7 @@
 													},
 													"font": "Arial;13;0",
 													"left": 174,
-													"top": 288,
+													"top": 304,
 													"width": 272.822265625,
 													"height": 13,
 													"alpha": -1.6162191526082168,
@@ -91827,7 +91827,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 311,
-													"top": 241,
+													"top": 257,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 25,
@@ -91848,7 +91848,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 311,
-													"top": 276,
+													"top": 292,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 10,
@@ -91868,7 +91868,7 @@
 													},
 													"font": "Arial;13;0",
 													"left": 466,
-													"top": 272,
+													"top": 288,
 													"width": 14,
 													"height": 29
 												}
@@ -91880,7 +91880,7 @@
 											"tail": {
 												"$ref": "AAAAAAF9a/22KXhfZDI="
 											},
-											"points": "157:272;466:272",
+											"points": "157:288;466:288",
 											"nameLabel": {
 												"$ref": "AAAAAAF9a/22KniKGWY="
 											},
@@ -92360,7 +92360,7 @@
 														"$ref": "AAAAAAF9a/22K3jGTxA="
 													},
 													"font": "Arial;13;0",
-													"left": 792,
+													"left": 780,
 													"top": 448,
 													"width": 255.8994140625,
 													"height": 13,
@@ -92383,7 +92383,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 919,
+													"left": 907,
 													"top": 433,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -92404,7 +92404,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 919,
+													"left": 907,
 													"top": 468,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -92424,7 +92424,7 @@
 														"$ref": "AAAAAAF9a/22K3jGTxA="
 													},
 													"font": "Arial;13;0",
-													"left": 1073,
+													"left": 1049,
 													"top": 464,
 													"width": 14,
 													"height": 97
@@ -92437,7 +92437,7 @@
 											"tail": {
 												"$ref": "AAAAAAF9a/22KXht+dM="
 											},
-											"points": "765:464;1073:464",
+											"points": "765:464;1049:464",
 											"nameLabel": {
 												"$ref": "AAAAAAF9a/22KnijOoE="
 											},
@@ -92471,17 +92471,17 @@
 														"$ref": "AAAAAAF9a/22K3jHQiA="
 													},
 													"font": "Arial;13;0",
-													"left": 1126,
-													"top": 496,
+													"left": 1072,
+													"top": 472,
 													"width": 155.4287109375,
 													"height": 13,
-													"alpha": 1.5253720525279582,
-													"distance": 88.09086218218096,
+													"alpha": 1.9082513412131499,
+													"distance": 60.40695324215582,
 													"hostEdge": {
 														"$ref": "AAAAAAF9a/22KnisnZk="
 													},
 													"edgePosition": 1,
-													"text": "11 : Lưu thông tin cập nhật"
+													"text": "11 : Lưu thông tin"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -92494,7 +92494,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1140,
+													"left": 1116,
 													"top": 491,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -92515,7 +92515,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 1106,
+													"left": 1082,
 													"top": 492,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -92535,7 +92535,7 @@
 														"$ref": "AAAAAAF9a/22K3jHQiA="
 													},
 													"font": "Arial;13;0",
-													"left": 1080,
+													"left": 1056,
 													"top": 508,
 													"width": 14,
 													"height": 29
@@ -92548,7 +92548,7 @@
 											"tail": {
 												"$ref": "AAAAAAF9a/22Knh0HgA="
 											},
-											"points": "1086:488;1116:488;1116:508;1093:508",
+											"points": "1062:488;1092:488;1092:508;1069:508",
 											"nameLabel": {
 												"$ref": "AAAAAAF9a/22KniomMg="
 											},
@@ -92582,7 +92582,7 @@
 														"$ref": "AAAAAAF9a/22K3jIOgQ="
 													},
 													"font": "Arial;13;0",
-													"left": 886,
+													"left": 874,
 													"top": 556,
 													"width": 64.34619140625,
 													"height": 13,
@@ -92605,7 +92605,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 918,
+													"left": 906,
 													"top": 571,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -92626,7 +92626,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 919,
+													"left": 907,
 													"top": 536,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -92660,7 +92660,7 @@
 											"tail": {
 												"$ref": "AAAAAAF9a/22Knh0HgA="
 											},
-											"points": "1073:552;765:552",
+											"points": "1049:552;765:552",
 											"nameLabel": {
 												"$ref": "AAAAAAF9a/22KnituPs="
 											},
@@ -92897,6 +92897,35 @@
 											"activation": {
 												"$ref": "AAAAAAF9a/22K3i68SM="
 											}
+										},
+										{
+											"_type": "UMLNoteView",
+											"_id": "AAAAAAF9kDRU84nU+IA=",
+											"_parent": {
+												"$ref": "AAAAAAF9a/22K3i8UqU="
+											},
+											"font": "Arial;13;0",
+											"left": 1216,
+											"top": 208,
+											"width": 100,
+											"height": 64,
+											"text": "Kiểm tra độ dài Mã Vật Liệu và Tên Vật Liệu"
+										},
+										{
+											"_type": "UMLNoteLinkView",
+											"_id": "AAAAAAF9kDRU/YnXvUg=",
+											"_parent": {
+												"$ref": "AAAAAAF9a/22K3i8UqU="
+											},
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAF9kDRU84nU+IA="
+											},
+											"tail": {
+												"$ref": "AAAAAAF9a/22KniYUTE="
+											},
+											"lineStyle": 1,
+											"points": "801:338;1215:250"
 										}
 									]
 								}
@@ -93052,7 +93081,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF9a/22K3jPO1I="
 									},
-									"name": "Lưu thông tin cập nhật",
+									"name": "Lưu thông tin",
 									"source": {
 										"$ref": "AAAAAAF9a/22K3jOUp4="
 									},
