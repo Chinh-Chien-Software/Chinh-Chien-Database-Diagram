@@ -40779,6 +40779,23 @@
 										},
 										{
 											"_type": "UMLAttributeView",
+											"_id": "AAAAAAF9twamDNIHiQU=",
+											"_parent": {
+												"$ref": "AAAAAAF8/6COBsktOE0="
+											},
+											"model": {
+												"$ref": "AAAAAAF9twal49H7ToU="
+											},
+											"font": "Arial;13;0",
+											"left": 1205,
+											"top": 284,
+											"width": 142,
+											"height": 13,
+											"text": "+ThanhPhan: string",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
 											"_id": "AAAAAAF8/6eH5tfXBP4=",
 											"_parent": {
 												"$ref": "AAAAAAF8/6COBsktOE0="
@@ -40788,7 +40805,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1205,
-											"top": 284,
+											"top": 299,
 											"width": 142,
 											"height": 13,
 											"text": "+Công Thức",
@@ -40805,7 +40822,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1205,
-											"top": 299,
+											"top": 314,
 											"width": 142,
 											"height": 13,
 											"text": "+Đánh Giá",
@@ -40822,7 +40839,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1205,
-											"top": 314,
+											"top": 329,
 											"width": 142,
 											"height": 13,
 											"text": "+Giá",
@@ -40833,7 +40850,7 @@
 									"left": 1200,
 									"top": 249,
 									"width": 152,
-									"height": 83
+									"height": 98
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -40856,7 +40873,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1205,
-											"top": 337,
+											"top": 352,
 											"width": 142,
 											"height": 13,
 											"text": "+Thêm Sản Phẩm()",
@@ -40873,7 +40890,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1205,
-											"top": 352,
+											"top": 367,
 											"width": 142,
 											"height": 13,
 											"text": "+Cập Nhật()",
@@ -40890,7 +40907,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1205,
-											"top": 367,
+											"top": 382,
 											"width": 142,
 											"height": 13,
 											"text": "+Xóa Sản Phẩm()",
@@ -40907,7 +40924,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1205,
-											"top": 382,
+											"top": 397,
 											"width": 142,
 											"height": 13,
 											"text": "+get()",
@@ -40924,7 +40941,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1205,
-											"top": 397,
+											"top": 412,
 											"width": 142,
 											"height": 13,
 											"text": "+set()",
@@ -40933,7 +40950,7 @@
 									],
 									"font": "Arial;13;0",
 									"left": 1200,
-									"top": 332,
+									"top": 347,
 									"width": 152,
 									"height": 83
 								},
@@ -40975,7 +40992,7 @@
 							"left": 1200,
 							"top": 224,
 							"width": 152,
-							"height": 191,
+							"height": 206,
 							"nameCompartment": {
 								"$ref": "AAAAAAF8/6COBckofJw="
 							},
@@ -41943,8 +41960,8 @@
 										"$ref": "AAAAAAF8/8M40fTLU/g="
 									},
 									"font": "Arial;13;0",
-									"left": 1129,
-									"top": 264,
+									"left": 1130,
+									"top": 267,
 									"width": 43.72265625,
 									"height": 13,
 									"alpha": -1.5209898494267038,
@@ -41966,8 +41983,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 1143,
-									"top": 321,
+									"left": 1142,
+									"top": 324,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -41988,7 +42005,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1150,
-									"top": 277,
+									"top": 280,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -42009,7 +42026,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1170,
-									"top": 311,
+									"top": 314,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -42030,7 +42047,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1166,
-									"top": 324,
+									"top": 327,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -42050,8 +42067,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1179,
-									"top": 285,
+									"left": 1180,
+									"top": 288,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -42071,8 +42088,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1120,
-									"top": 303,
+									"left": 1119,
+									"top": 305,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -42091,8 +42108,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1120,
-									"top": 316,
+									"left": 1119,
+									"top": 318,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -42112,7 +42129,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 1120,
-									"top": 275,
+									"top": 277,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -42161,7 +42178,7 @@
 								"$ref": "AAAAAAF8/6COBcknrsw="
 							},
 							"lineStyle": 1,
-							"points": "1199:307;1097:290",
+							"points": "1199:311;1097:292",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF8/8M41/TQJus="
@@ -45878,6 +45895,15 @@
 							},
 							"name": "Tên Sản Phẩm",
 							"type": ""
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAF9twal49H7ToU=",
+							"_parent": {
+								"$ref": "AAAAAAF8/6COBcklcFw="
+							},
+							"name": "ThanhPhan",
+							"type": "string"
 						},
 						{
 							"_type": "UMLAttribute",
