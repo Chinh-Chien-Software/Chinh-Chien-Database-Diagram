@@ -96058,7 +96058,7 @@
 											"font": "Arial;13;1",
 											"left": 128,
 											"top": 109,
-											"width": 166.5,
+											"width": 194.42333984375,
 											"height": 13,
 											"text": "VatLieu"
 										},
@@ -96084,7 +96084,7 @@
 													"font": "Arial;13;0",
 													"left": 133,
 													"top": 132,
-													"width": 156.5,
+													"width": 184.42333984375,
 													"height": 13
 												},
 												{
@@ -96099,7 +96099,7 @@
 													"font": "Arial;13;0",
 													"left": 133,
 													"top": 147,
-													"width": 156.5,
+													"width": 184.42333984375,
 													"height": 13
 												},
 												{
@@ -96114,7 +96114,7 @@
 													"font": "Arial;13;0",
 													"left": 133,
 													"top": 162,
-													"width": 156.5,
+													"width": 184.42333984375,
 													"height": 13
 												},
 												{
@@ -96129,7 +96129,7 @@
 													"font": "Arial;13;0",
 													"left": 133,
 													"top": 177,
-													"width": 156.5,
+													"width": 184.42333984375,
 													"height": 13
 												},
 												{
@@ -96144,7 +96144,7 @@
 													"font": "Arial;13;0",
 													"left": 133,
 													"top": 192,
-													"width": 156.5,
+													"width": 184.42333984375,
 													"height": 13
 												},
 												{
@@ -96159,21 +96159,21 @@
 													"font": "Arial;13;0",
 													"left": 133,
 													"top": 207,
-													"width": 156.5,
+													"width": 184.42333984375,
 													"height": 13
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 128,
 											"top": 127,
-											"width": 166.5,
+											"width": 194.42333984375,
 											"height": 98
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 128,
 									"top": 104,
-									"width": 166.5,
+									"width": 194.42333984375,
 									"height": 121,
 									"nameLabel": {
 										"$ref": "AAAAAAF9tnYCOvFl5mA="
@@ -96199,9 +96199,9 @@
 												"$ref": "AAAAAAF9tuUR7oc+Ljc="
 											},
 											"font": "Arial;13;1",
-											"left": 336,
+											"left": 328,
 											"top": 85,
-											"width": 160,
+											"width": 189.8720703125,
 											"height": 13,
 											"text": "NhanVien"
 										},
@@ -96214,17 +96214,34 @@
 											"model": {
 												"$ref": "AAAAAAF9tuUR7Yc8ky0="
 											},
+											"subViews": [
+												{
+													"_type": "ERDColumnView",
+													"_id": "AAAAAAF9tukm+6NSR38=",
+													"_parent": {
+														"$ref": "AAAAAAF9tuUR74dA6sc="
+													},
+													"model": {
+														"$ref": "AAAAAAF9tukmt6NPQ1s="
+													},
+													"font": "Arial;13;0",
+													"left": 333,
+													"top": 108,
+													"width": 179.8720703125,
+													"height": 13
+												}
+											],
 											"font": "Arial;13;0",
-											"left": 336,
+											"left": 328,
 											"top": 103,
-											"width": 160,
-											"height": 10
+											"width": 189.8720703125,
+											"height": 23
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 336,
+									"left": 328,
 									"top": 80,
-									"width": 160,
+									"width": 189.8720703125,
 									"height": 161,
 									"nameLabel": {
 										"$ref": "AAAAAAF9tuUR7oc/k/E="
@@ -96454,7 +96471,7 @@
 										"$ref": "AAAAAAF9tnYCOvFihIs="
 									},
 									"name": "MaVatLieu",
-									"type": "string",
+									"type": "VARCHAR",
 									"length": 0,
 									"primaryKey": true
 								},
@@ -96465,7 +96482,7 @@
 										"$ref": "AAAAAAF9tnYCOvFihIs="
 									},
 									"name": "TenVatLieu",
-									"type": "string",
+									"type": "VARCHAR",
 									"length": 0
 								},
 								{
@@ -96516,7 +96533,20 @@
 							"_parent": {
 								"$ref": "AAAAAAF9tnXzlPCIuuo="
 							},
-							"name": "NhanVien"
+							"name": "NhanVien",
+							"columns": [
+								{
+									"_type": "ERDColumn",
+									"_id": "AAAAAAF9tukmt6NPQ1s=",
+									"_parent": {
+										"$ref": "AAAAAAF9tuUR7Yc8ky0="
+									},
+									"name": "MaNhanVien",
+									"type": "VARCHAR",
+									"length": 0,
+									"primaryKey": true
+								}
+							]
 						},
 						{
 							"_type": "ERDEntity",
