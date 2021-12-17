@@ -38843,7 +38843,7 @@
 											"top": 544,
 											"width": 139.19140625,
 											"height": 13,
-											"text": "-Tiếp Nhận Đơn Hàng()",
+											"text": "-TiepNhanDonHang()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -39586,7 +39586,7 @@
 											"top": 560,
 											"width": 179.45458984375,
 											"height": 13,
-											"text": "-Kiểm Soát Lượng Tồn Hàng()",
+											"text": "-KiemSoatLuongTonHang()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -45497,7 +45497,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF83ogcUS698Rs="
 							},
-							"name": "Tiếp Nhận Đơn Hàng",
+							"name": "TiepNhanDonHang",
 							"visibility": "private"
 						}
 					]
@@ -45559,7 +45559,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF83ov+9zJ5tP0="
 							},
-							"name": "Kiểm Soát Lượng Tồn Hàng",
+							"name": "KiemSoatLuongTonHang",
 							"visibility": "private"
 						}
 					]
