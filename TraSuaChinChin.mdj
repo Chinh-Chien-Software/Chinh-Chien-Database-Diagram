@@ -43778,7 +43778,7 @@
 											"top": 88,
 											"width": 170.26953125,
 											"height": 13,
-											"text": "+Kiểm Tra Mật Khẩu()",
+											"text": "+DangNhap()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -43795,7 +43795,7 @@
 											"top": 103,
 											"width": 170.26953125,
 											"height": 13,
-											"text": "+KIểm Tra Tên Người Dùng()",
+											"text": "+KiemTra()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -46368,7 +46368,7 @@
 											"top": 223,
 											"width": 132.8310546875,
 											"height": 13,
-											"text": "Nhân Viên"
+											"text": "NhanVien"
 										},
 										{
 											"_type": "LabelView",
@@ -46803,7 +46803,7 @@
 											"top": 535,
 											"width": 140.55615234375,
 											"height": 13,
-											"text": "Quản Lý"
+											"text": "QuanLy"
 										},
 										{
 											"_type": "LabelView",
@@ -47126,7 +47126,7 @@
 											"top": 543,
 											"width": 139.19140625,
 											"height": 13,
-											"text": "NhânViênBánHàng"
+											"text": "NhanVienBanHang"
 										},
 										{
 											"_type": "LabelView",
@@ -47213,7 +47213,7 @@
 											"top": 576,
 											"width": 139.19140625,
 											"height": 13,
-											"text": "-Tiếp Nhận Đơn Hàng()",
+											"text": "-TiepNhanDonHang()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -47415,7 +47415,7 @@
 											"top": 543,
 											"width": 179.45458984375,
 											"height": 13,
-											"text": "Nhân Viên Pha Chế"
+											"text": "NhanVienPhaChe"
 										},
 										{
 											"_type": "LabelView",
@@ -47502,7 +47502,7 @@
 											"top": 576,
 											"width": 179.45458984375,
 											"height": 13,
-											"text": "-Kiểm Soát Lượng Tồn Hàng()",
+											"text": "-KiemSoatLuongTonHang()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -47969,7 +47969,7 @@
 											"top": 295,
 											"width": 113.79443359375,
 											"height": 13,
-											"text": "Sản Phẩm"
+											"text": "SanPham"
 										},
 										{
 											"_type": "LabelView",
@@ -48973,7 +48973,7 @@
 											"top": 535,
 											"width": 71.169921875,
 											"height": 13,
-											"text": "Kho Hàng"
+											"text": "KhoHang"
 										},
 										{
 											"_type": "LabelView",
@@ -49549,7 +49549,7 @@
 											"top": 172,
 											"width": 149.931640625,
 											"height": 13,
-											"text": "Chủ Quán"
+											"text": "ChuQuan"
 										},
 										{
 											"_type": "LabelView",
@@ -49857,7 +49857,7 @@
 											"top": 431,
 											"width": 140.55615234375,
 											"height": 13,
-											"text": "Quản Lý"
+											"text": "QuanLy"
 										},
 										{
 											"_type": "LabelView",
@@ -50356,7 +50356,7 @@
 											"top": 439,
 											"width": 139.19140625,
 											"height": 13,
-											"text": "NhânViênBánHàng"
+											"text": "NhanVienBanHang"
 										},
 										{
 											"_type": "LabelView",
@@ -50443,7 +50443,7 @@
 											"top": 472,
 											"width": 139.19140625,
 											"height": 13,
-											"text": "-Tiếp Nhận Đơn Hàng()",
+											"text": "-TiepNhanDonHang()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -50821,7 +50821,7 @@
 											"top": 439,
 											"width": 179.45458984375,
 											"height": 13,
-											"text": "Nhân Viên Pha Chế"
+											"text": "NhanVienPhaChe"
 										},
 										{
 											"_type": "LabelView",
@@ -50908,7 +50908,7 @@
 											"top": 472,
 											"width": 179.45458984375,
 											"height": 13,
-											"text": "-Kiểm Soát Lượng Tồn Hàng()",
+											"text": "-KiemSoatLuongTonHang()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -51286,7 +51286,7 @@
 											"top": 599,
 											"width": 71.169921875,
 											"height": 13,
-											"text": "Kho Hàng"
+											"text": "KhoHang"
 										},
 										{
 											"_type": "LabelView",
@@ -52456,7 +52456,7 @@
 											"top": 607,
 											"width": 98.6298828125,
 											"height": 13,
-											"text": "Lịch Làm"
+											"text": "LichLam"
 										},
 										{
 											"_type": "LabelView",
@@ -53172,7 +53172,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9AmGVcN3DLkw="
 							},
-							"name": "Kiểm Tra Mật Khẩu"
+							"name": "DangNhap"
 						},
 						{
 							"_type": "UMLOperation",
@@ -53180,7 +53180,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF9AmGVcN3DLkw="
 							},
-							"name": "KIểm Tra Tên Người Dùng"
+							"name": "KiemTra"
 						}
 					]
 				},
@@ -53315,7 +53315,7 @@
 											"top": 265,
 											"width": 137.29345703125,
 											"height": 13,
-											"text": "Quản Lý"
+											"text": "QuanLy"
 										},
 										{
 											"_type": "LabelView",
@@ -53535,7 +53535,7 @@
 											"top": 431,
 											"width": 79.853515625,
 											"height": 13,
-											"text": "Báo Cáo"
+											"text": "BaoCao"
 										},
 										{
 											"_type": "LabelView",
