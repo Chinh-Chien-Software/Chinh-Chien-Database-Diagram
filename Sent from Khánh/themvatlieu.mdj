@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Collaboration1",
+					"name": "CollaborationThemVatLieu",
 					"ownedElements": [
 						{
 							"_type": "UMLInteraction",
