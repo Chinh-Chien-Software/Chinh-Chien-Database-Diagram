@@ -1,4 +1,4 @@
-# Diagram-TraSuaChinChin
-Phan tich va thiet ke he thong
+# Diagram Phần Mềm Quản Lý Quán Trà Sữa Chin Chin
+Môn Phân tích va thiết kế hệ thống
 
-? Có nên chuyển repo này vào repo https://github.com/TaQuangKhoi/ChinChin ?
+Link repo phần mềm: https://github.com/TaQuangKhoi/ChinChin
